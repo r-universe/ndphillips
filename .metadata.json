@@ -1,5 +1,9 @@
 [
   {
+    "package": "FFTrees",
+    "oncran": true
+  },
+  {
     "package": "yarrr",
     "oncran": true
   }

@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FFTrees"]
+	path = FFTrees
+	url = https://github.com/ndphillips/fftrees
+	shallow = true
+	registered = true
 [submodule "yarrr"]
 	path = yarrr
 	url = https://github.com/ndphillips/yarrr
